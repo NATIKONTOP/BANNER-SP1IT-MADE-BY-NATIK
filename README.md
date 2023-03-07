@@ -42,8 +42,10 @@
 $ git clone  https://github.com/NATIKONTOP/BANNER-SP1IT-MADE-BY-NATIK
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `NATIK.sh` -
 ```
+$ apt update && upgrade
+$ pkg install git
 $ cd NATIK
 $ bash NATIK.sh
 ```
